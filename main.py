@@ -115,7 +115,7 @@ for i in range(4):  # 4 colunas de botões
     frame_corpo.grid_columnconfigure(i, weight=1)
 
 # label de informações do grupo
-texto_extra = Label(frame_info, text="Calculadora Grupo 37\nEdney Freitas, Felipe da Silva\nMary Ruth Vasconcelos, Mateus Trigueiro\nRaquel Santana e Vitor Samuel Mendonça", relief=FLAT, anchor="center", justify="center", bg=cor1, fg=cor2, font=('Arial', 8))
+texto_extra = Label(frame_info, text="Calculadora Grupo 37\nEdney Vasconcelos, Felipe Sousa\nMary Ruth, Mateus Trigueiro\nRaquel Santana e Vitor Samuel", relief=FLAT, anchor="center", justify="center", bg=cor1, fg=cor2, font=('Arial', 8))
 texto_extra.pack(fill=X, pady=5)
 
 # configuração dos botões (texto, função, linha, coluna, colspan, cor)

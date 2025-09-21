@@ -1,15 +1,15 @@
-# 🧮 Calculadora - Grupo 37
+# 🧮 Calculadora Python - Grupo 37
 
 Uma calculadora desenvolvida em Python usando Tkinter, implementando conceitos avançados de programação funcional.
 
 ## 👥 Integrantes do Projeto
 
-- **Edney Freitas**
-- **Felipe da Silva**
-- **Mary Ruth Vasconcelos**
+- **Edney Vasconcelos**
+- **Felipe Sousa**
+- **Mary Ruth**
 - **Mateus Trigueiro**
 - **Raquel Santana**
-- **Vitor Samuel Mendonça**
+- **Vitor Samuel**
 
 ## 📋 Sobre o Projeto
 
